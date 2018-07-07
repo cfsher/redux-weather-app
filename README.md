@@ -14,3 +14,5 @@ Example weather application built with react and redux. [Sparklines](https://git
 localhost:8080
 
 ```
+
+![Example image](./images/example.png)
