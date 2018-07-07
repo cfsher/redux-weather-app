@@ -9,7 +9,7 @@ Example weather application built with react and redux. [Sparklines](https://git
 > git clone https://github.com/cfsher/react-redux-weather-app.git
 > cd react-redux-weather-app
 > npm install
-> npm started
+> npm start
 
 localhost:8080
 
